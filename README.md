@@ -30,7 +30,7 @@ It can be seen that on monday through friday the hours with more movement are be
 
 Then we have the trips by gender:
 
-*Insert the picture of trips by gender (Weekday per hour)*
+![](https://github.com/JoseLuisMontemayor/bikesharing/blob/main/Trips_by_gender_weekday_per_hour.PNG)
 
 The graph has the same trend as the picture shown above, but we can see that most of the users are males, for which if thinking of a market strategy ir would probably be interesting to consider the male predomination on a target objective. 
 
