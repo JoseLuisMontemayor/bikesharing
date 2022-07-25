@@ -8,7 +8,7 @@ The purpose of this project is to create a visual interpretation of the results 
 
 As entering the link [link to dashboard](https://public.tableau.com/app/profile/jose.luis.montemayor/viz/bikesharingChallenge_16585306337060/BikesharingAnalysis) we can find first the introduction information, in which we can see a map of the city of New York and the starting and ending locations of the trips the users make on the bikes. It is easy to compare the zones in which people usually start and finish their route. Then we have a gender breakdown of the users, in which we can see that males are the principal participants. 
 
-*Insert the picture of the Introduction Information*
+![](https://github.com/JoseLuisMontemayor/bikesharing/blob/main/Introduction_Information.PNG)
 
 Then we can see the graph with the data of the checkout times for users:
 
