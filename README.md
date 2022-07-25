@@ -18,7 +18,7 @@ We can see that most of the trip durations are less than 40 minutes, the trips m
 
 We can see then the checkout times by gender:
 
-*Insert the picture of the checkout times by gender*
+![](https://github.com/JoseLuisMontemayor/bikesharing/blob/main/Checkout_times_for_gender.PNG)
 
 We can see that the males and females have a similar trend on the graph, with a peak in 10 minutes and then it decreases. In part the unknown gender has a stable peak between 10 and 30 minutes and then it decreases the same as the other genders. 
 
