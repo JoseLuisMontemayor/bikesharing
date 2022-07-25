@@ -21,3 +21,27 @@ We can see then the checkout times by gender:
 *Insert the picture of the checkout times by gender*
 
 We can see that the males and females have a similar trend on the graph, with a peak in 10 minutes and then it decreases. In part the unknown gender has a stable peak between 10 and 30 minutes and then it decreases the same as the other genders. 
+
+In the next image you can see the trips per hour for all the days of the week:
+
+*Insert the picture of the Trips by Weekday per Hour*
+
+It can be seen that on monday through friday the hours with more movement are between 6am and 9am, and also between 5pm and 7pm. It makes sense since we can infer that people use the bikes as a transport method to get to thier jobs. And during the weekend it is shown that the movement of the bikes is more distributed during all day. 
+
+Then we have the trips by gender:
+
+*Insert the picture of trips by gender (Weekday per hour)*
+
+The graph has the same trend as the picture shown above, but we can see that most of the users are males, for which if thinking of a market strategy ir would probably be interesting to consider the male predomination on a target objective. 
+
+And to end the last analysis is the User Trips by Gender by Weekday:
+
+*Insert the picture of User trips by gender by Weekday*
+
+We can see on the heat map that mostly the base clients are composed of subscribers, moslty male. This information is not surprising after all the trends we have seen  during the activity. 
+
+### Summary
+
+We can conclude after all the analysis made, that the usage of the service is mostly by males, lasting mainly from 10 to 40 minutes each ride with more frequency during the weekdays during the morning and afternoon. 
+
+An additional visualization that could be added to the anaysis, could be to verify the starting and ending location by gender, to see for which areas can be a specific target depending on the gender. Also, it could be added a heat map for the months of the year, to see on which time of the year could be the busiest for the business. 
