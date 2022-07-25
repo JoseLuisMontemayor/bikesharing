@@ -36,7 +36,7 @@ The graph has the same trend as the picture shown above, but we can see that mos
 
 And to end the last analysis is the User Trips by Gender by Weekday:
 
-*Insert the picture of User trips by gender by Weekday*
+![](https://github.com/JoseLuisMontemayor/bikesharing/blob/main/User_trips_by_gender_by_weekday.PNG)
 
 We can see on the heat map that mostly the base clients are composed of subscribers, moslty male. This information is not surprising after all the trends we have seen  during the activity. 
 
