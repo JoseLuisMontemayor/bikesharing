@@ -12,7 +12,7 @@ As entering the link [link to dashboard](https://public.tableau.com/app/profile/
 
 Then we can see the graph with the data of the checkout times for users:
 
-*Insert the picture of the checkout times for users*
+![](https://github.com/JoseLuisMontemayor/bikesharing/blob/main/Checkout_times_for_users.PNG)
 
 We can see that most of the trip durations are less than 40 minutes, the trips made with the bikes are not that long, and it has to be taken into account with the new city Des Moines, maybe the distances are longer of nearer for the users, and it would be essential to see the placement of the city in contrast with NYC. 
 
