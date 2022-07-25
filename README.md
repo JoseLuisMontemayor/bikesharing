@@ -24,7 +24,7 @@ We can see that the males and females have a similar trend on the graph, with a 
 
 In the next image you can see the trips per hour for all the days of the week:
 
-*Insert the picture of the Trips by Weekday per Hour*
+![](https://github.com/JoseLuisMontemayor/bikesharing/blob/main/Trips_by_weekday_per_hour.PNG)
 
 It can be seen that on monday through friday the hours with more movement are between 6am and 9am, and also between 5pm and 7pm. It makes sense since we can infer that people use the bikes as a transport method to get to thier jobs. And during the weekend it is shown that the movement of the bikes is more distributed during all day. 
 
